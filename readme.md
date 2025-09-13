@@ -51,7 +51,7 @@
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd YourMarket
 ```
 
 ### Install dependencies for frontend and backend separately
